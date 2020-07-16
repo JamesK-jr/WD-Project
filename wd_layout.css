@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+/*window and body styles*/
+html {
+height 100%;
+}
+
+body {
+margin-left: auto;
+margin right: auto;
+min-height: 100%;
+}
