@@ -13,3 +13,21 @@ header.nav.horizontal ul li{
   float: left;
   width: 12.5%;
 }
+
+
+/* navigation list styles*/
+
+nav.horizontal ul li {
+   background-color: rgb(0,0,0);  
+   font-size: 0.9em;
+   padding: 10px 0;
+   text-align: center;     
+}
+
+nav.horizontal a:link, nav.horizontal a:visited {
+   color: rgb(255, 255, 255);
+}
+
+nav.horizontal a:hover, nav.horizontal a:active {
+   color: rgb(192,192,192);
+}
