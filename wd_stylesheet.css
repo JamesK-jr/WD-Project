@@ -8,7 +8,7 @@ html {
   padding: 0 25 25 25;
 }
 
-nav.horizontal ul li{
+header.horizontal ul li{
   display: block;
   float: left;
   width: 12.5%;
