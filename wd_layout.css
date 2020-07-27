@@ -13,3 +13,7 @@ min-width: 640px;
 max-width: 900px;
 background-color: rgb(28,28,28,.6);
 }
+
+h1 {
+    font-family: Montdcoc, Arial;
+}
