@@ -4,6 +4,8 @@
 /* Adding Font */
  @font-face { font-family: Montdcoc; src: url('Montdcoc-ywL1e.otf'); } 
  @font-face { font-family: Montdcoc; font-weight: bold; src: url('Montdcoc-ywL1e.otf');}
+ @font-face { font-family: ScareArms; src: url('ScareArms.ttf'); }
+ @font-face { font-family: ScareArms; font-weight: bold; src: url('ScareArms.ttf');}
 
 
 
