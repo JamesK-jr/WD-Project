@@ -1,6 +1,12 @@
 @charset "utf-8";
 
 
+/* Adding Font */
+ @font-face { font-family: Montdcoc; src: url('Montdcoc-ywL1e.otf'); } 
+ @font-face { font-family: Montdcoc; font-weight: bold; src: url('Montdcoc-ywL1e.otf');}
+
+
+
 /* structural style */
 html {
   background-color: #393B0B;
