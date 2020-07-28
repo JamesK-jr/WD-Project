@@ -4,6 +4,8 @@
 table {
   line-height: 2em;
   padding: 20px;
+  background: radial-gradient(circle,gray 1%, rgb(28,28,28,.35), rgb(28,28,28,.001));
+  text-shadow: 5px 5px black;
 }
 
 table td{
