@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+/*Formatting Ticket Table*/
+table {
+  border: 5px solid #E6E6E6;
+}
+
+table td{
+  color: #e6e6e6;
+  font-size: 1.2em;
+  vertical-align: top;
+}
+
+article {
+  font-family: NightChild, Arial;
+  color: #e6e6e6;
+}
