@@ -4,7 +4,7 @@
 table {
   line-height: 2em;
   padding: 20px;
-  background: radial-gradient(gray 1%, rgb(28,28,28,.35), rgb(28,28,28,.001));
+  background: radial-gradient(gray 1%, rgb(28,28,28,.01), rgb(28,28,28,.001));
   text-shadow: 5px 5px black;
 }
 
