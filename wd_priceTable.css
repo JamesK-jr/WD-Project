@@ -42,3 +42,9 @@ tbody th{
   border: 5px solid #e6e6e6;
   font-size: 1.3em;
 }
+
+caption {
+  padding: 40px;
+  font-size: 3em;
+  color: #b30000;
+}
