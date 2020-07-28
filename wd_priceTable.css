@@ -2,7 +2,8 @@
 
 /*Formatting Ticket Table*/
 table {
-  border: 5px solid #E6E6E6;
+  line-height: 2em;
+  padding: 20px;
 }
 
 table td{
@@ -14,4 +15,28 @@ table td{
 article {
   font-family: NightChild, Arial;
   color: #e6e6e6;
+}
+artice, p{
+  font-size: 2.7em;  
+  margin: 30px 40px;
+}
+
+thead tr{
+    height: 50px;
+    font-size: 2.3em;
+}
+
+tbody tr{
+  font-size: 1.4em; 
+}
+
+tbody td{
+  font-size: 1.5em;
+  padding: 20px 60px;
+  border: 5px solid #e6e6e6;
+}
+
+tbody th{
+  border: 5px solid #e6e6e6;
+  font-size: 1.3em;
 }
