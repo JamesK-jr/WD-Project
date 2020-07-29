@@ -40,10 +40,19 @@ footer div{
     text-align: center;
     overflow: hidden;
     position: absolute;
-    bottom: 200px; 
-    padding: 0px 0px 0px 330px;
+    bottom: 50px; 
+    padding: 0px 0px 0px 310px;
     text-shadow: none;
     font-family: NightChild, montdcoc, Arial;
     color: #e6e6e6;
     font-size: 3em;
+}
+footer aside {
+    text-align: center;
+    position: absolute;
+    bottom: 130px;
+    padding: 0px 0px 0px 290px;
+    font-family: NightChild, montdcoc, Arial;
+    color: #e6e6e6;
+    font-size: 2em;
 }
