@@ -48,3 +48,7 @@ caption {
   font-size: 3em;
   color: #b30000;
 }
+
+footer p{
+  margin: 0px;
+}
