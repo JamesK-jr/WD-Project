@@ -24,3 +24,15 @@ h1 {
 .topnav {
     font-family: NightChild, Montdcoc, Arial;
 }
+
+footer{
+    text-align: center;
+    overflow: hidden;
+    position: absolute;
+    bottom: 0px;
+    padding: 0px 0px 0px 280px;
+    color: #e6e6e6;
+    font-family: Arial;
+    font-size: .6em;
+    background: black;
+}
