@@ -11,7 +11,7 @@ var x = setInterval(function() {
   var seconds = Math.floor((length % (1000 * 60)) / 1000);
     
   //add colons in between each number and output result using "countdown" ID
-  document.getElementById("countdown").innerHTML = days + "days " + hours + ":" + minutes + ":" + seconds;
+  document.getElementById("countdown").innerHTML = days + " days " + hours + ":" + minutes + ":" + seconds;
     
   // Check if it is halloween yet
   if (distance < 0) {
