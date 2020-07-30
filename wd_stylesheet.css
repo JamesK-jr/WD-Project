@@ -40,3 +40,18 @@ html {
   color: #000000;
 }
   
+.home-grid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+.grid-main {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+.grid-desc {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
