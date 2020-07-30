@@ -46,6 +46,10 @@ html {
   padding: 10px;
   font-family: NightChild, montdcoc, Arial;
   color: #e6e6e6;
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-position: center;
+  
 }
 .grid-main {
   padding: 20px;
