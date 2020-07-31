@@ -61,3 +61,7 @@ html {
   font-size: 25px;
   text-align: center;
 }
+
+#map {
+padding: 200px 0px 0px 0px;
+}
