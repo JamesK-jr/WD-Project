@@ -28,9 +28,8 @@ h1 {
 footer p{
     text-align: center;
     overflow: hidden;
-    position: absolute;
     bottom: 0px;
-    padding: 0px 0px 0px 330px;
+    margin-top: 35px;
     color: #e6e6e6;
     font-family: Arial;
     font-size: .6em;
@@ -39,9 +38,8 @@ footer p{
 footer div{
     text-align: center;
     overflow: hidden;
-    position: absolute;
     bottom: 50px; 
-    padding: 0px 0px 0px 310px;
+    margin-top: 25px;
     text-shadow: none;
     font-family: NightChild, montdcoc, Arial;
     color: #e6e6e6;
@@ -49,9 +47,8 @@ footer div{
 }
 footer aside {
     text-align: center;
-    position: absolute;
     bottom: 130px;
-    padding: 0px 0px 0px 290px;
+    margin-top: 160px;
     font-family: NightChild, montdcoc, Arial;
     color: #e6e6e6;
     font-size: 2em;
