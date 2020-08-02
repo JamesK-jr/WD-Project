@@ -74,3 +74,18 @@ footer aside {
     margin-left: 150px;
     margin-right: 150px;
 }
+
+#about {
+    color: #e6e6e6;
+    font-family: NightChild, montdcoc, arial;
+    font-size: 1.3em
+}
+#faq {
+    color: #e6e6e6;
+    font-family: NightChild, montdcoc, arial;
+    font-size: 1.3em;
+}
+#faq li{
+    font-size: 1.4em;
+    color: #b30000;
+}
